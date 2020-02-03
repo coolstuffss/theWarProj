@@ -1,16 +1,23 @@
 # theWarProj
 CLANKERS! Clankers everywhere!!!
 
-videogioco in terza persona sulla prima guerra mondiale
-
-entrambi i fronti
-
 ## battaglie storiche:
- - Fortezza di Osowiec
- - Verdun
- - La somme
- - Tannenberg
- - nazisti e tutti quelli della prima e seconda guerra mondiale
+ - WWI:
+ 	- alleati vs imperi centrali
+	- Fortezza di Osowiec
+	- Verdun
+	- La somme
+	- Tannenberg
+ - WWII:
+ 	- asse vs alleati
+ - battaglie moderne:
+ 	- Whuhan (zombie mode)
+	- medio oriente
+	- crimea
+	- armenia
+	- corea
+	- kurdistan
+	- israele vs palestina
 	
 ## battagle inventate
  - clone wars
